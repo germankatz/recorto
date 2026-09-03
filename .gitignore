@@ -1,0 +1,19 @@
+# Ejecutables compilados: se generan con build.cmd y van a las Releases,
+# no al repo.
+recorto.exe
+recorto_x64.exe
+
+# Configuración del usuario. La app la crea sola en el primer arranque;
+# config.ejemplo.ini es la copia de referencia que sí se versiona.
+config.ini
+
+# ImageMagick portable, si alguien lo copia en la carpeta (~25 MB)
+magick.exe
+imagemagick/
+ImageMagick/
+bin/
+
+# Basura de Windows
+Thumbs.db
+desktop.ini
+*.tmp
