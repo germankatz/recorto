@@ -45,6 +45,27 @@ Windows 7 SP1 o superior. `config.ini` se crea solo al lado del ejecutable.
 
 <hr>
 
+## Arrancar con Windows
+
+Dejá la carpeta donde vaya a vivir, y después:
+
+1. `Win + R` → escribí `shell:startup` → Enter. Se abre la carpeta de Inicio.
+2. Arrastrá `recorto.exe` ahí **con el botón derecho** y soltá → *Crear iconos
+   de acceso directo*.
+3. Clic derecho en el acceso directo → *Propiedades* → al final de **Destino**
+   agregá un espacio y `/tray`:
+
+```
+"C:\...\recorto.exe" /tray
+```
+
+Sin `/tray` te abriría el modo recorte cada vez que prendés la máquina. Con
+`/tray` arranca callado, sólo el ícono en la bandeja.
+
+No toca el registro: es un acceso directo en una carpeta, lo borrás y listo.
+
+<hr>
+
 ## Bandeja
 
 | | |
