@@ -1,6 +1,6 @@
 # Recorto
 
-<img src="docs/icono.png" alt="Recorto" width="700">
+<img src="docs/icono.png" alt="Recorto" width="128">
 
 Capturá una región de la pantalla y guardala como **PDF**, PNG o JPG.
 Portable de verdad: una carpeta que copiás a un pendrive y anda. No instala
@@ -65,7 +65,7 @@ recorto/
 ├─ recorto.ico            ícono, se embebe al compilar
 ├─ config.ejemplo.ini     copia de referencia del config.ini
 ├─ build.cmd              compila los dos .exe
-└─ docs/icono.png         el ícono en varios tamaños
+└─ docs/icono.png         el ícono
 ```
 
 Para usarla en un pendrive alcanza con `recorto.exe`. `config.ini` se crea solo
