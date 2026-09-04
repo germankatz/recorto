@@ -9,7 +9,7 @@
 Portable: una carpeta que copiás a un pendrive y anda.
 Sin instalador, sin registro, sin .NET.
 
-[![Descargar](https://img.shields.io/badge/Descargar-v1.0.0-7C5CFF?style=for-the-badge)](https://github.com/germankatz/recorto/releases/latest)
+[![Descargar](https://img.shields.io/badge/Descargar%20recorto.exe-v1.0.0-7C5CFF?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/germankatz/recorto/releases/latest/download/recorto.exe)
 &nbsp;
 ![Windows](https://img.shields.io/badge/Windows-7%20SP1%20%E2%86%92%2011-2D7FF9?style=for-the-badge)
 &nbsp;
@@ -38,8 +38,8 @@ segunda copia del programa.
 
 | Archivo | |
 |---|---|
-| **[`recorto.exe`](https://github.com/germankatz/recorto/releases/latest)** | 32 bits. El recomendado: anda en Windows de 32 y 64 bits |
-| [`recorto_x64.exe`](https://github.com/germankatz/recorto/releases/latest) | 64 bits |
+| **[`recorto.exe`](https://github.com/germankatz/recorto/releases/latest/download/recorto.exe)** | 32 bits. El recomendado: anda en Windows de 32 y 64 bits |
+| [`recorto_x64.exe`](https://github.com/germankatz/recorto/releases/latest/download/recorto_x64.exe) | 64 bits |
 
 Windows 7 SP1 o superior. `config.ini` se crea solo al lado del ejecutable.
 
