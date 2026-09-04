@@ -1,0 +1,6 @@
+*.cmd text eol=crlf
+*.bat text eol=crlf
+*.ahk text eol=crlf
+*.ini -text
+*.ico -text
+*.png -text
